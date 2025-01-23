@@ -4,7 +4,7 @@
 This is a full fledged Grocery Web App created using ReactJs, MongoDB, ExpressJs and NodeJS, used API like cloudinary also used libraries like Redux and MUI.
 
 
-User authentication was implemented by storing cookie in browser as a JWT token and used FireBase for mobile OTP verification. 
+User authentication was implemented by storing cookie in browser as a JWT token and used PassportJS for social authentication. 
 
 There is additional controls to admins in this website that can manage, add or remove products, manage orders, manage users or assign admins.
 Email is optional for login as we are using their phone number to login.
